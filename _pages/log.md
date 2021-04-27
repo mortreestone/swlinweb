@@ -5,7 +5,7 @@ title: IMMERSE Log
 
 ### Week 1: April 26, 2021
 
-* **Monday**: 
+* **Monday**: set up the website
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
